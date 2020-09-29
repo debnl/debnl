@@ -9,6 +9,6 @@ Eu sou a Déborah *(ela/dela)*, prazer! Tenho 20 anos, estudo ADS e trabalho na 
 - 👩🏻‍💻 Além da área de QA, sou apaixonada por **front end e design**
 - 👾 Sou apaixonada por cultura nerd/geek
 - 💬 Falo **inglês** e estou me aprofundando no **francês**
-- 👩🏻‍🔬 Buscando um futuro melhor para mulheres na tecnologia e ciência
-- 🌱 Sou vegetariana e defendo as causas animais e ambientais
+- 👩🏻‍🔬 Buscando um futuro melhor para **mulheres** na **tecnologia e ciência**
+- 🌱 Sou **vegetariana** e defendo as causas **animais e ambientais**
 - 🤳🏻 Você pode me encontrar como **@pupperino** no instagram
