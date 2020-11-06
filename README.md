@@ -4,7 +4,7 @@
 
 Eu sou a Déborah *(ela/dela)*, prazer! Tenho 20 anos, estudo ADS e trabalho na área de qualidade. :)
 
-- 🏙️ Trabalho hoje como **Analista de testes**
+- 🏙️ Trabalho hoje como **Analista de Testes**
 - 🚀 Estudando automação de testes com **Ruby, Cucumber e outras ferramentas**
 - 👩🏻‍💻 Além da área de QA, sou apaixonada por **front end e design**
 - 👾 Sou apaixonada por cultura nerd/geek
