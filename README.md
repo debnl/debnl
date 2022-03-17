@@ -11,4 +11,4 @@ Eu sou a Déborah *(ela/dela)*, prazer! Tenho 20 anos, sou formada em ADS e trab
 - 💬 Falo **inglês** e estou me aprofundando no **francês**
 - 👩🏻‍🔬 Buscando um futuro melhor para **mulheres** na **tecnologia e ciência**
 - 🌱 Sou **vegetariana** e defendo as causas **animais e ambientais**
-- 🤳🏻 Você pode me encontrar como **@pupperino** no instagram
+- 🤳🏻 Você pode me encontrar como **@debdebsdeb** no instagram
