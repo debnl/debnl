@@ -4,7 +4,7 @@
 
 Eu sou a Déborah *(ela/dela)*, prazer! Tenho 20 anos, sou formada em ADS e trabalho na área de qualidade! :)
 
-- 🏙️ Atualmente na Programmers como **Quality Engineer**
+- 🏙️ Atundo como **Quality Engineer**
 - 🚀 Estudando automação de testes com **Cypress e outras ferramentas**
 - 👩🏻‍💻 Além da área de QA, sou apaixonada por **front end e design**
 - 👾 Sou apaixonada por cultura nerd/geek
