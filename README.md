@@ -1,6 +1,6 @@
 ### Hello, stranger! 🚀👩🏼‍🚀 <br>
 ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25seGdiYjMydTkxMXJ1Z3gzMmloYzJlNnB4eWFhbm8zdDd5NXBncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif) <br>
-<br> I’m <b> Déborah </b> (she/they) — a 25-year-old nonbinary QA Engineer! Welcome to my git profile :) <br>
+<br> I’m <b> Déborah </b> (she/they), 25yo and a QA Engineer! Welcome to my git profile :) <br>
 
 I`ve been working in Quality Assurance for 5 years and I am currently specializing in test automation with Cypress & other techs! Consulting for @levva.
 
