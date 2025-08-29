@@ -10,5 +10,5 @@ I`ve been working in Quality Assurance for 5 years and I am currently specializi
 🃏 I love Magic the Gathering and board games!<br>
 🐈 Crazy about cats, have 5 in different colors and patterns!<br>
 
-You can find me also in [Linkedin](https://www.linkedin.com/in/deborahnl/)!
+You can also find me in [Linkedin](https://www.linkedin.com/in/deborahnl/)!
 
